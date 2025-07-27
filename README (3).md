@@ -52,32 +52,7 @@ The frontend will start on \`http://localhost:3000\`.
 
 ---
 
-## API Endpoints  
 
-### **POST** \`/predict/\`  
-Uploads an image and returns the predicted class with confidence.  
-
-**Request:**  
-- Form-data: \`file\` (Image file)  
-
-**Response:**  
-\`\`\`json
-{
-  "predicted_class": "Tomato_Late_Blight",
-  "confidence": "95.23%"
-}
-\`\`\`
-
----
-
-## Screenshot  
-Below is an example of a successful prediction:
-
-![Prediction Screenshot](assets/Screenshot 2025-07-27 230856.png)
-
-*(Place your screenshot in the \`screenshot\` folder and ensure the path is correct.)*
-
----
 
 ## Folder Structure  
 \`\`\`
