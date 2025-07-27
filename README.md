@@ -52,28 +52,6 @@ The frontend will start on \`http://localhost:3000\`.
 
 ---
 
-
-
-## Folder Structure  
-\`\`\`
-crop-disease-detection/
-│── backend/
-│   ├── fast_api.py          # FastAPI backend
-│   ├── utils.py             # Prediction utilities
-│   ├── crop_disease_model.pth  # Trained model weights
-│   └── class_names.json     # Class labels
-│
-│── frontend/
-│   ├── src/
-│   │   └── App.js           # React app
-│   └── package.json
-│
-│── screenshot/
-│   └── prediction_example.png
-│
-│── README.md
-\`\`\`
-
 ---
 
 ## Usage  
