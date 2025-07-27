@@ -28,8 +28,8 @@ This project, **KissanAI**, is an AI-powered solution to detect plant diseases f
 
 ### 1. Clone the Repository  
 \`\`\`bash
-git clone https://github.com/your-username/crop-disease-detection.git
-cd crop-disease-detection
+git clone https://github.com/anasdev-10/KisanAI.git
+cd KisanAI
 \`\`\`
 
 ### 2. Backend Setup (FastAPI)  
