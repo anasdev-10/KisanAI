@@ -73,7 +73,7 @@ Uploads an image and returns the predicted class with confidence.
 ## Screenshot  
 Below is an example of a successful prediction:
 
-![Prediction Screenshot](screenshot/prediction_example.png)
+![Prediction Screenshot](assets/Screenshot 2025-07-27 230856.png)
 
 *(Place your screenshot in the \`screenshot\` folder and ensure the path is correct.)*
 
