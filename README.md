@@ -2,7 +2,7 @@
 
 An AI-powered solution to detect plant diseases from leaf images using deep learning, built with **Streamlit frontend** and **FastAPI backend**.
 
-## 🚀 Features
+## Features
 
 - **Deep Learning Model**: Fine-tuned ResNet18 for accurate crop disease classification
 - **FastAPI Backend**: RESTful API for model predictions
@@ -55,7 +55,7 @@ KisanAI/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/KisanAI.git
+   git clone https://github.com/anasdev-10/KisanAI.git
    cd KisanAI
    ```
 
@@ -117,11 +117,11 @@ streamlit run streamlit_app.py --server.port 8501
 - Update `src/backend/fast_api.py` for API modifications
 - Adjust styling in the CSS section of the Streamlit app
 
-## 📊 API Endpoints
+## API Endpoints
 
 - `POST /predict/`: Upload image and get disease prediction
   - Input: Image file
-  - Output: JSON with predicted class and confidence
+  - Output: Predicted Disease and Confidence
 
 ## 🎨 UI Features
 
@@ -145,9 +145,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Muhammad Anas** - 🚀
+**Muhammad Anas** - 
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - PlantVillage dataset for training data
 - Streamlit and FastAPI communities
